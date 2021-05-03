@@ -27,3 +27,4 @@ Replik:1
 rntz:1
 svintus:2
 Reck:1
+boj:1
