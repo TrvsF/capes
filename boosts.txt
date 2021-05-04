@@ -2,7 +2,7 @@ spartan4200:1
 jumbo:1
 apollo:1
 lyoni:2
-Chiyun2b:1
+Chiyun2b:2
 Neared:1
 Pedroooo:1
 Avnge:2
