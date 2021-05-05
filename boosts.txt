@@ -27,3 +27,5 @@ es0t:1
 Hop:1
 rxrosa:2
 Radio:1
+catfi5h:1
+painpill:1
