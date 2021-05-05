@@ -1,15 +1,11 @@
 spartan4200:1
 jumbo:1
-apollo:1
 lyoni:2
 Chiyun2b:2
 Neared:1
 Pedroooo:1
-Avnge:2
-divisiion:2
 Raathal:2
 TaxMachine:2
-liav:1
 Geitenvanger:1
 06d:2
 1440_:1
@@ -21,7 +17,6 @@ milo:1
 doxbin.org/upload/5nt2b2t:1
 Cooliokid:1
 ThatAdhdkid_:1
-Mr_Boomboom:2
 Replik:1
 rntz:1
 svintus:2
@@ -31,3 +26,4 @@ Hobby_125:1
 es0t:1
 Hop:1
 rxrosa:2
+Radio:1
