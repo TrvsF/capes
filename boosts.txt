@@ -29,3 +29,5 @@ rxrosa:2
 Radio:1
 catfi5h:1
 painpill:1
+Crystallg:1
+death:2
